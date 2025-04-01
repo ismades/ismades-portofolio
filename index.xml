@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Isma Des</title>
+    <link>https://ismades.github.io/ismades-portofolio/</link>
+    <description>Recent content in Data Science Portfolio on Isma Des</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ismades.github.io/ismades-portofolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Program Kalkulator &amp; Data List Python</title>
+      <link>https://ismades.github.io/ismades-portofolio/post/project-1/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/post/project-1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Built using Python as an exercise in basic programming.&lt;/li&gt;&#xA;&lt;li&gt;Accepts two numeric inputs from users and performs arithmetic operations: addition, subtraction, multiplication, and division.&lt;/li&gt;&#xA;&lt;li&gt;Displays results of comparison operations: greater than, less than, equal to, not equal, etc.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrates use of Python lists with examples of fruits, vegetables, and favorite foods.&lt;/li&gt;&#xA;&lt;li&gt;Accesses specific elements from the lists to show understanding of data structures.&lt;/li&gt;&#xA;&lt;li&gt;This was my very first project as I began learning the fundamentals of programming for data science.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/proyek_1.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ismades/Simple-Python-Calculator&#34;&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 2 : Multi Feature Python Program: Calculator, BMI Calculator, Temperature Converter, and More</title>
+      <link>https://ismades.github.io/ismades-portofolio/post/project-2/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/post/project-2/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Built using Python as a practice project to strengthen logic and control flow skills.&lt;/li&gt;&#xA;&lt;li&gt;Utilizes while loops and if-elif statements to create an interactive menu system.&lt;/li&gt;&#xA;&lt;li&gt;Includes tools such as a basic calculator, grade evaluation system, BMI checker with health messages, complete temperature conversion (C, F, R, K), and a simple internet café price calculator with discounts.&lt;/li&gt;&#xA;&lt;li&gt;Designed to reinforce concepts like conditional statements, loops, user input, and basic arithmetic operations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/proyek_2.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ismades/Multi-Feature-Python-Program-Calculator-BMI-Calculator-Temperature-Converter-More&#34;&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 3 : Korean Drama Search App with Python, MySQL, and Tkinter</title>
+      <link>https://ismades.github.io/ismades-portofolio/post/project-3/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/post/project-3/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;GUI built using Tkinter.&lt;/li&gt;&#xA;&lt;li&gt;Database designed and managed using PHPMyAdmin (MySQL).&lt;/li&gt;&#xA;&lt;li&gt;Features user registration and login with validation.&lt;/li&gt;&#xA;&lt;li&gt;Enables search by drama year or rating.&lt;/li&gt;&#xA;&lt;li&gt;Stores search history with timestamps for each user.&lt;/li&gt;&#xA;&lt;li&gt;Includes options to review or delete history data.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/proyek_3.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ismades/KDrama-Search-App&#34;&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 4 : Student Performance Visualization with Power BI</title>
+      <link>https://ismades.github.io/ismades-portofolio/post/project-4/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/post/project-4/</guid>
+      <description>&lt;p&gt;In this project, I learned how to analyze student performance data by exploring how various factors—such as gender, lunch type, parental education, ethnicity, and test preparation—affect academic scores.&#xA;Beyond learning, I also practiced what I had studied by applying data cleaning techniques using Python and creating visualizations with Power BI. This project helped me understand how to extract insights from data and present them clearly through visual storytelling.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/proyek_4.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/proyek_4_2.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project 5: Predicting NBA Starters 2023 – Combining Linear and Logistic Regression</title>
+      <link>https://ismades.github.io/ismades-portofolio/post/project-5/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/post/project-5/</guid>
+      <description>&lt;p&gt;In this project, I aimed to predict which players are likely to be starters in the NBA using the NBA 2023 dataset from Kaggle. I applied two approaches: Simple Linear Regression and Logistic Regression.&lt;/p&gt;&#xA;&lt;p&gt;With Simple Linear Regression, I explored the relationship between several features and the number of games started (GS). The GS value then served as a reference point to determine whether a player is a starter. I also used a correlation matrix to select the most relevant features and evaluated the model using MAE, MSE, R², and RMSE.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://ismades.github.io/ismades-portofolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/about/</guid>
+      <description>&lt;div style=&#34;max-width: 480px; margin: 0 auto; padding: 0 16px; text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;https://ismades.github.io/ismades-portofolio/images/profile2.png&#34; width=&#34;320&#34; style=&#34;margin-top: 32px; border-radius: 12px; max-width: 100%; height: auto;&#34; alt=&#34;Isma&#39;s Profile Picture&#34; /&gt;&#xA;  &lt;p style=&#34;margin-top: 16px;&#34;&gt;&#xA;    &lt;p&gt;Hello, I&#39;m Isma. I&#39;m currently starting my journey in the world of data science. Every day, I learn new things about how to process data, create visualizations, and build simple models using Python and machine learning. Although I&#39;m still at the beginning, I truly enjoy the learning process and keep trying. For me, this journey is all about growing, learning from mistakes, and staying curious about new things. Outside of data, I love watching dramas, reading, and finding inspiration from everyday moments to keep growing. Through this portfolio, I hope I can continue learning, sharing, and one day contribute to meaningful projects. Thank you for visiting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://ismades.github.io/ismades-portofolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ismades.github.io/ismades-portofolio/contact/</guid>
+      <description>&lt;p&gt;Follow me on these social media platform.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;URL&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;LinkedIn:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/isma-destiasih-a21776286/&#34;&gt;https://www.linkedin.com/in/isma-destiasih-a21776286/&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GitHub      :&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/ismades&#34;&gt;https://github.com/ismades&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

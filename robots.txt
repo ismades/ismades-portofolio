@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ismades.github.io/sitemap.xml
